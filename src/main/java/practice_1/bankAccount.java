@@ -120,7 +120,7 @@ public class bankAccount {
         array2.add(b2);
 
         for(bankAccount i: array2){
-            System.out.println("First Name: "+i.accHolderName);
+            System.out.println("First NAME: "+i.accHolderName);
             System.out.println("Account Number: "+i.accNumber);
             System.out.println("Current Amount: "+i.amount);
         }
