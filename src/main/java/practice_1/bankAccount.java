@@ -1,5 +1,4 @@
 package practice_1;
-import practice_1.Employee;
 
 import java.util.ArrayList;
 import java.util.Random;
@@ -127,9 +126,6 @@ public class bankAccount {
 
 
 
-        b3 = b3.adduser();
-
-        array2.add(b3);
 
 
 
