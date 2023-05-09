@@ -56,7 +56,7 @@ public class Main {
             BufferedWriter bufferedWriter = new BufferedWriter(writer);
 
             for(Person ele: personList){
-                bufferedWriter.write(ele.name+", "+ele.salary);
+                bufferedWriter.write("Person Name: "+ele.name+", Person Salary: "+ele.salary);
                 bufferedWriter.newLine();
 
             }
