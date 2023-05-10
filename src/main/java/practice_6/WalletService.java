@@ -18,7 +18,7 @@ public class WalletService {
         }
         else{
             list.add(wallet);
-            System.out.println("Wallet created successfully!");
+            System.out.println("Wallet created successfully");
         }
 
     }
